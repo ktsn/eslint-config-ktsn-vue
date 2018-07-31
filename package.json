@@ -17,5 +17,13 @@
   "bugs": {
     "url": "https://github.com/ktsn/eslint-config-ktsn-vue/issues"
   },
-  "homepage": "https://github.com/ktsn/eslint-config-ktsn-vue"
+  "homepage": "https://github.com/ktsn/eslint-config-ktsn-vue",
+  "devDependencies": {
+    "eslint": "^5.2.0",
+    "typescript": "^2.9.1"
+  },
+  "dependencies": {
+    "eslint-config-ktsn-typescript": "^1.1.1",
+    "eslint-plugin-vue": "^5.0.0-beta.1"
+  }
 }
