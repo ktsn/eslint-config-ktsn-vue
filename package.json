@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-ktsn-vue",
+  "version": "0.0.0",
+  "description": "ESLint config for Vue.js project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ktsn/eslint-config-ktsn-vue.git"
+  },
+  "keywords": [
+    "ESLint",
+    "config",
+    "Vue.js"
+  ],
+  "author": "katashin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ktsn/eslint-config-ktsn-vue/issues"
+  },
+  "homepage": "https://github.com/ktsn/eslint-config-ktsn-vue"
+}
