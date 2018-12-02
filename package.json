@@ -19,11 +19,13 @@
   },
   "homepage": "https://github.com/ktsn/eslint-config-ktsn-vue",
   "devDependencies": {
-    "eslint": "^5.2.0",
-    "typescript": "^2.9.1"
+    "eslint": "^5.9.0",
+    "prettier": "^1.15.3",
+    "typescript": "^3.2.1"
   },
   "dependencies": {
-    "eslint-config-ktsn-typescript": "^1.1.1",
+    "eslint-config-ktsn-typescript": "^1.1.4",
+    "eslint-config-prettier": "^3.3.0",
     "eslint-plugin-vue": "^5.0.0-beta.1"
   }
 }
