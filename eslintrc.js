@@ -14,7 +14,7 @@ module.exports = {
           'transition',
           'transition-group',
           'component',
-          'slot'
+          'slot',
 
           // vue-router
           'router-link',
