@@ -1,7 +1,7 @@
 module.exports = {
   extends: ['ktsn-typescript', 'plugin:vue/recommended', 'prettier/vue'],
   parserOptions: {
-    parser: 'typescript-eslint-parser'
+    parser: '@typescript-eslint/parser'
   },
   rules: {
     'vue/component-name-in-template-casing': [

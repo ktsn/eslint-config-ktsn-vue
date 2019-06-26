@@ -18,14 +18,17 @@
     "url": "https://github.com/ktsn/eslint-config-ktsn-vue/issues"
   },
   "homepage": "https://github.com/ktsn/eslint-config-ktsn-vue",
+  "scripts": {
+    "test": "eslint -c eslintrc.js ."
+  },
   "devDependencies": {
-    "eslint": "^5.9.0",
-    "prettier": "^1.15.3",
-    "typescript": "^3.2.1"
+    "eslint": "^6.0.1",
+    "prettier": "^1.18.2",
+    "typescript": "^3.5.2"
   },
   "dependencies": {
-    "eslint-config-ktsn-typescript": "^1.1.4",
-    "eslint-config-prettier": "^3.3.0",
-    "eslint-plugin-vue": "^5.0.0-beta.1"
+    "eslint-config-ktsn-typescript": "^2.0.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-vue": "^5.2.3"
   }
 }
