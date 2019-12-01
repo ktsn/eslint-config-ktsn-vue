@@ -29,6 +29,6 @@
   "dependencies": {
     "eslint-config-ktsn-typescript": "^2.0.0",
     "eslint-config-prettier": "^6.0.0",
-    "eslint-plugin-vue": "^5.2.3"
+    "eslint-plugin-vue": "^6.0.1"
   }
 }
