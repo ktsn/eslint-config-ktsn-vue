@@ -22,13 +22,13 @@
     "test": "eslint -c eslintrc.js ."
   },
   "devDependencies": {
-    "eslint": "^6.0.1",
-    "prettier": "^2.0.2",
-    "typescript": "^3.5.2"
+    "eslint": "^7.3.0",
+    "prettier": "^2.0.5",
+    "typescript": "^3.9.5"
   },
   "dependencies": {
-    "eslint-config-ktsn-typescript": "^2.0.0",
-    "eslint-config-prettier": "^6.0.0",
-    "eslint-plugin-vue": "^6.0.1"
+    "eslint-config-ktsn-typescript": "^2.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-vue": "^6.2.2"
   }
 }
