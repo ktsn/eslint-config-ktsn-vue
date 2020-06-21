@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ktsn-vue",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "ESLint config for Vue.js project",
   "main": "index.js",
   "repository": {
